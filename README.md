@@ -41,4 +41,4 @@ Criar uma base sólida em Python e registrar meu progresso enquanto pratico lóg
 📌 Observação
 
 Este repositório é totalmente dedicado a aprendizado.  
-Os códigos são simples de propósito — focados em clareza, lógica e prática constante.
+Os códigos são simples de propósito, focados em clareza, lógica e prática constante.
